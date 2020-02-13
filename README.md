@@ -1,4 +1,4 @@
-# responsive-mega-menu
+# Responsive Mega Menu
 Modern design responsive mega made top of Bootstrap 4 and jQuery plugin for menu integration.
 
 See Demo - <a href="http://themepixels.me/components/responsive-mega-menu">http://themepixels.me/components/responsive-mega-menu</a>
