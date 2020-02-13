@@ -1,0 +1,21 @@
+/*
+* ResponsiveMegaMenu v1.0.0
+* Created by: ThemePixels
+* Demo URL: https://themepixels.me/components/responsive-mega-menu
+*
+*/
+
+/* ############### FONTS IMPORT ############### */
+@import url('https://fonts.googleapis.com/css?family=Archivo+Narrow:400,500,600,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700&display=swap');
+
+// Variables & Mixins
+@import "variables";
+
+/* ############### BOOTSTRAP FRAMEWORK ############### */
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+
+/* ############### PANEL STYLES ############### */
+@import "body";
+@import "header";

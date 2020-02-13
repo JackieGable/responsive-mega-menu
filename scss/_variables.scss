@@ -1,0 +1,42 @@
+
+// Colors
+$color-br-01:                     #3d72fe;
+
+$color-tx-01:                     #252f3e;
+$color-tx-02:                     #3c4858;
+$color-tx-03:                     #505d6d;
+$color-tx-04:                     #8d98a5;
+$color-tx-05:                     #a7b2c1;
+
+$color-ui-01:                     #e4eaf6;
+$color-ui-02:                     #c0c7d1;
+$color-ui-03:                     #8392a5;
+$color-ui-04:                     #3c4858;
+
+// Color Overrides
+$blue:                            $color-br-01;
+
+// Body
+$body-bg:                         #fafbff;
+$body-color:                      $color-tx-02;
+
+// Border
+$border-color:                    #e4eaf6;
+
+// Fonts
+$font-family-01:                  'Roboto Condensed', sans-serif;
+$font-family-base:                'Archivo Narrow', sans-serif;
+
+$font-size-base:                  .875rem;
+
+// Link
+$link-hover-decoration:           none;
+
+// Template Settings
+$header-height:                   54px;
+$sidebar-width:                   250px;
+
+// Shadows
+$shadow-01:                       0 5px 15px 0 rgba($color-ui-02,.1);
+$shadow-02:                       0 0 15px 0 rgba($color-ui-02, .1);
+$shadow-03:                       0 2px 4px 0 rgba($color-ui-02,.1);
